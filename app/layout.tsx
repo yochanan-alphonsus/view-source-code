@@ -24,14 +24,14 @@ export const metadata: Metadata = {
   description:
     "A simple and lightweight tool to see the HTML code of your desired website",
   alternates: {
-    canonical: "https://view-source-code.vercel.app",
+    canonical: "https://view-source-code-psi.vercel.app",
   },
   openGraph: {
     title: "View Source Code",
     description:
       "A simple and lightweight tool to see the HTML code of your desired website",
-    url: "https://view-source-code.vercel.app",
-    images: "https://view-source-code.vercel.app/images/logo.jpeg",
+    url: "https://view-source-code-psi.vercel.app",
+    images: "https://view-source-code-psi.vercel.app/images/logo.jpeg",
     type: "website",
   },
   robots: {
@@ -46,12 +46,12 @@ export const metadata: Metadata = {
   ],
   authors: {
     name: "João Afonso",
-    url: "https://view-source-code.vercel.app",
+    url: "https://view-source-code-psi.vercel.app",
   },
   icons: {
-    apple: "https://view-source-code.vercel.app/images/logo.jpeg",
-    icon: "https://view-source-code.vercel.app/images/logo.jpeg",
-    shortcut: "https://view-source-code.vercel.app/images/logo.jpeg",
+    apple: "https://view-source-code-psi.vercel.app/images/logo.jpeg",
+    icon: "https://view-source-code-psi.vercel.app/images/logo.jpeg",
+    shortcut: "https://view-source-code-psi.vercel.app/images/logo.jpeg",
   },
 };
 
